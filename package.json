@@ -17,7 +17,7 @@
   "author": "Scott Cooper <scttcper@gmail.com>",
   "license": "MIT",
   "release": {
-    "branch": "master"
+    "branch": "main"
   },
   "homepage": "https://github.com/scttcper/eslint-config-react#readme"
 }

@@ -16,6 +16,6 @@ npm i @ctrl/eslint-config-react -D
     "node": true,
     "jest": true
   },
-  "extends": ["@ctrl/eslint-configg-react"]
+  "extends": ["@ctrl/eslint-config-react"]
 }
 ```

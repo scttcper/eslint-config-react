@@ -1,4 +1,4 @@
-# @ctrl/eslint-configg-react
+# @ctrl/eslint-config-react
 
 Not really a shareable eslint config, more of a set of rules and eslint all together. Installs all required eslint dependencies. This package was created to unify my eslint rules and reduce churn from all the eslint packages in package.json
 

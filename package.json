@@ -1,23 +1,23 @@
 {
   "name": "@ctrl/eslint-config-react",
-  "version": "1.0.0",
+  "version": "0.0.0-placeholder",
   "description": "eslint react typescript config",
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {},
   "files": [
     "index.js"
   ],
   "dependencies": {
     "eslint-config-xo-react": "^0.27.0",
-    "@ctrl/eslint-config": "^3.5.5"
+    "@ctrl/eslint-config": "^3.7.0"
   },
   "repository": "scttcper/eslint-config-react",
   "author": "Scott Cooper <scttcper@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "release": {
     "branches": ["main"]
-  },
-  "homepage": "https://github.com/scttcper/eslint-config-react#readme"
+  }
 }
